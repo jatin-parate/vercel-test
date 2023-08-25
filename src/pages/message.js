@@ -10,5 +10,5 @@ export const getStaticProps = async () => {
 }
 
 export default function MessagePage( { name }) {
-    return <h1 id="h1">Name</h1>
+    return <h1>Name</h1>
 }
